@@ -47,6 +47,10 @@ git remote -v
   마침표를 빼면, 원격 저장소의 이름으로 폴더가 생성되어 그 안에
   프로젝트 파일들이 위치하게 된다.
 
+R Studio cloud와 깃허브를 연결할 때,
+계정의 비밀번호가 필요하다.
+1. settings -> developer settings -> classic 토큰 생성
+
 
 
 
