@@ -49,9 +49,14 @@ git remote -v
 
 R Studio cloud와 깃허브를 연결할 때,
 계정의 비밀번호가 필요하다.
-1. settings -> developer settings -> classic 토큰 생성
-
-
+1. settings -> developer settings
+2. personal Access Token 클릭
+3. generate new token(classic) 클릭
+4. note 해당 키의 별명을 지정, expire 기간 설정
+5. 권한 설정(전부)
+6. 비밀번호(토큰) 복사
+7. R Studio Cloud 에서 push 할 때 닉네임 입력후
+ 비밀번호 붙여넣기
 
 
 
